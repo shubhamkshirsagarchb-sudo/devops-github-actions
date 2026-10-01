@@ -1,4 +1,4 @@
-#DevOps - zero to hero
+#DevOps - Practice
 
 Checkit out : [here](https://github.com/shubhamkshirsagarchb-sudo/devops-github-actions)
 ## Topics
